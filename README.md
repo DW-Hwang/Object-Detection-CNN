@@ -5,4 +5,4 @@ Unlike image localization, we do not get the prior information to the number of 
 
 We present our result as shown below (Green: predicted bounding boxes, Red: target truth) and the link to the training algorithm can be found [here](https://github.com/DW-Hwang/Object-Detection-CNN/blob/master/Image%20Localization/Basic_localization.ipynb).
 
-<img src="https://github.com/DW-Hwang/Object-Detection-CNN/blob/master/screenshots/image1.png" width= "899" height="580"/>
+<img src="https://github.com/DW-Hwang/Object-Detection-CNN/blob/master/screenshots/image1.png" width= "850" height="480"/>
